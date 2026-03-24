@@ -1,0 +1,4 @@
+Model Evaluation Results
+------------------------
+Silhouette Score: 0.24523696359524327
+Davies Bouldin Score: 1.513219738015584
